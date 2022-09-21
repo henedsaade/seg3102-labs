@@ -1,3 +1,8 @@
+# Student Information
+
+Name: Hened Saade
+Student Number: 300111592
+
 # Lab1TempConverter
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
